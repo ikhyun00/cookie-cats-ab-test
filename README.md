@@ -41,7 +41,8 @@
 
 ### 데이터 구성
 Kaggle의 *Mobile Games A/B Testing - Cookie Cats* 데이터셋을 사용합니다. 총 **90,189명**의 유저가 무작위로 gate_30(기존) 또는 gate_40(변경) 그룹에 배정되었습니다.
-https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats
+
+데이터 출처 : https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats
 
 | 컬럼명 | 설명 |
 | :--- | :--- |
